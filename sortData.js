@@ -4,6 +4,7 @@
 var sort = function(){
 	console.log("Instantiating sort class..");
 };
+
 //function to sort records of student.
 sort.prototype.sortArray = function (data) {
 	console.log("Sorting data...!");
