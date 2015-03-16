@@ -2,6 +2,7 @@
   return json object with this array.
   @author Nikhil */
 
+
 var StringManip = function() {
 	console.log("Instantiating StringManip class");
 };
